@@ -1,9 +1,5 @@
-package kz.onggar.pattern;
+package kz.onggar.pattern.abstractfactory;
 
-import kz.onggar.pattern.abstractfactory.LinuxUserInterfaceFactory;
-import kz.onggar.pattern.abstractfactory.MacUserInterfaceFactory;
-import kz.onggar.pattern.abstractfactory.UserInterfaceAbstractFactory;
-import kz.onggar.pattern.abstractfactory.WindowsUserInterfaceFactory;
 import kz.onggar.pattern.abstractfactory.uicomponent.Button;
 import kz.onggar.pattern.abstractfactory.uicomponent.Label;
 import kz.onggar.pattern.abstractfactory.uicomponent.ScrollBar;
